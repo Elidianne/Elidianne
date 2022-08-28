@@ -1,7 +1,7 @@
 ## Olá! Sou Elidianne Ferreira 👋😊
 
-- 👩‍🔬 Estou cursando Ciência da computação ...
-- 👩‍💻 Apaixonada por tecnologia e conhecimento ...
+- 👩‍🔬 Estou cursando Ciência da computação
+- 👩‍💻 Apaixonada por tecnologia e conhecimento
 - 💻 Iniciando ...
 
 
