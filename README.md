@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Eli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eli-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Eli-PHP" height="30" width="40" src="https://https://www.flaticon.com/br/icone-gratis/php_5968332?term=php&page=1&position=2&page=1&position=2&related_id=5968332&origin=search">
   <img align="center" alt="Eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
